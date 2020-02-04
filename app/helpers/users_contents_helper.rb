@@ -1,0 +1,2 @@
+module UsersContentsHelper
+end
